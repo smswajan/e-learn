@@ -4,7 +4,7 @@ const courses = [
         name: "Advanced CSS and Sass",
         category: "WebDesign",
         img: "https://img-a.udemycdn.com/course/750x422/2459100_87b1_6.jpg",
-        price: 134,
+        price: 60,
         description:
             "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
         instructor: {
@@ -17,7 +17,7 @@ const courses = [
         name: "Docker and Kubernetes",
         category: "Development",
         img: "https://i.ytimg.com/vi/Mi3Lx7yk3Hg/maxresdefault.jpg",
-        price: 120,
+        price: 45,
         description:
             "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
         instructor: {
@@ -30,7 +30,7 @@ const courses = [
         name: "Ultimate AWS Certification",
         category: "IT Certification",
         img: "https://elysiumacademy.org/wp-content/uploads/2018/12/aws.jpg",
-        price: 120,
+        price: 85,
         description:
             "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
         instructor: {
@@ -43,7 +43,7 @@ const courses = [
         name: "Microsoft Excel Advanced",
         category: "MS Office",
         img: "https://i.ytimg.com/vi/RdTozKPY_OQ/maxresdefault.jpg",
-        price: 120,
+        price: 32,
         description:
             "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
         instructor: {
@@ -57,7 +57,7 @@ const courses = [
         category: "MS Office",
         img:
             "https://www.elegantthemes.com/blog/wp-content/uploads/2020/06/ux-ui-design-courses-bootcamps-featured-image-scaled.jpg",
-        price: 120,
+        price: 89,
         description:
             "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
         instructor: {
@@ -71,7 +71,7 @@ const courses = [
         category: "MS Office",
         img:
             "https://leverageedu.com/blog/wp-content/uploads/2019/11/Content-Writing-Courses-1.png",
-        price: 120,
+        price: 26,
         description:
             "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
         instructor: {

@@ -13,20 +13,14 @@ const CourseCard = (props) => {
                     alt="..."
                 />
                 <div className="course-content">
-                    <h3>
+                    <h3 className="mb-0">
                         <a href="#">{courseInfo.name} </a>
                     </h3>
+                    <p>
+                        <>Instructor: {courseInfo.instructor.name} </>
+                    </p>
                     <p>{courseInfo.description}</p>
-                    {/* <div className="trainer d-flex justify-content-between align-items-center">
-                        <div className="trainer-profile d-flex align-items-center">
-                            <img
-                                src={courseInfo.instructor.img}
-                                className="img-fluid"
-                                alt=""
-                            />
-                            <span>{courseInfo.instructor.name} </span>
-                        </div>
-                    </div> */}
+
                     <div className="d-flex justify-content-between align-items-center mb-3">
                         <p className="price">Price: ${courseInfo.price}</p>
                         <button
