@@ -5,8 +5,13 @@ const CourseCard = (props) => {
 
     return (
         <div className="col-lg-4 col-md-6 d-flex align-items-stretch mb-4">
-            <div className="course-item">
-                <img src={courseInfo.img} className="img-fluid" alt="..." />
+            <div className="course-item bg-white">
+                <img
+                    style={{ height: "220px", width: "100%" }}
+                    src={courseInfo.img}
+                    className="img-fluid"
+                    alt="..."
+                />
                 <div className="course-content">
                     <h3>
                         <a href="#">{courseInfo.name} </a>

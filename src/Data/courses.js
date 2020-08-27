@@ -3,7 +3,7 @@ const courses = [
         key: "C101",
         name: "Advanced CSS and Sass",
         category: "WebDesign",
-        img: "https://source.unsplash.com/random/1920x1080",
+        img: "https://img-a.udemycdn.com/course/750x422/2459100_87b1_6.jpg",
         price: 134,
         description:
             "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
@@ -16,7 +16,7 @@ const courses = [
         key: "C102",
         name: "Docker and Kubernetes",
         category: "Development",
-        img: "https://source.unsplash.com/random/1920x1080",
+        img: "https://i.ytimg.com/vi/Mi3Lx7yk3Hg/maxresdefault.jpg",
         price: 120,
         description:
             "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
@@ -27,9 +27,9 @@ const courses = [
     },
     {
         key: "C102",
-        name: "Ultimate AWS Certified",
+        name: "Ultimate AWS Certification",
         category: "IT Certification",
-        img: "https://source.unsplash.com/random/1920x1080",
+        img: "https://elysiumacademy.org/wp-content/uploads/2018/12/aws.jpg",
         price: 120,
         description:
             "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
@@ -42,7 +42,7 @@ const courses = [
         key: "C102",
         name: "Microsoft Excel Advanced",
         category: "MS Office",
-        img: "https://source.unsplash.com/random/1920x1080",
+        img: "https://i.ytimg.com/vi/RdTozKPY_OQ/maxresdefault.jpg",
         price: 120,
         description:
             "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
@@ -55,7 +55,8 @@ const courses = [
         key: "C102",
         name: "Adobe XD UI/UX",
         category: "MS Office",
-        img: "https://source.unsplash.com/random/1920x1080",
+        img:
+            "https://www.elegantthemes.com/blog/wp-content/uploads/2020/06/ux-ui-design-courses-bootcamps-featured-image-scaled.jpg",
         price: 120,
         description:
             "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
@@ -68,7 +69,8 @@ const courses = [
         key: "C102",
         name: "Content Writing Masterclass",
         category: "MS Office",
-        img: "https://source.unsplash.com/random/1920x1080",
+        img:
+            "https://leverageedu.com/blog/wp-content/uploads/2019/11/Content-Writing-Courses-1.png",
         price: 120,
         description:
             "Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.",
