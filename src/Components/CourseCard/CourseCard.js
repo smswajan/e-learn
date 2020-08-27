@@ -3,7 +3,7 @@ import React from "react";
 const CourseCard = (props) => {
     const courseInfo = props.courseInfo;
     return (
-        <div className="col-lg-6 col-md-6 d-flex align-items-stretch mb-4">
+        <div className="col-lg-4 col-md-6 d-flex align-items-stretch mb-4">
             <div className="course-item">
                 <img src={courseInfo.img} className="img-fluid" alt="..." />
                 <div className="course-content">

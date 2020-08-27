@@ -1,7 +1,7 @@
 const courses = [
     {
         key: "C101",
-        name: "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+        name: "Advanced CSS and Sass",
         category: "WebDesign",
         img: "https://source.unsplash.com/random/1920x1080",
         price: 134,
@@ -14,7 +14,7 @@ const courses = [
     },
     {
         key: "C102",
-        name: "Docker and Kubernetes: The Complete Guide",
+        name: "Docker and Kubernetes",
         category: "Development",
         img: "https://source.unsplash.com/random/1920x1080",
         price: 120,
@@ -27,7 +27,7 @@ const courses = [
     },
     {
         key: "C102",
-        name: "Ultimate AWS Certified Solutions Architect Associate 2020",
+        name: "Ultimate AWS Certified",
         category: "IT Certification",
         img: "https://source.unsplash.com/random/1920x1080",
         price: 120,
@@ -40,7 +40,7 @@ const courses = [
     },
     {
         key: "C102",
-        name: "Microsoft Excel - Excel from Beginner to Advanced",
+        name: "Microsoft Excel Advanced",
         category: "MS Office",
         img: "https://source.unsplash.com/random/1920x1080",
         price: 120,
@@ -53,7 +53,7 @@ const courses = [
     },
     {
         key: "C102",
-        name: "User Experience Design Essentials - Adobe XD UI UX Design",
+        name: "Adobe XD UI/UX",
         category: "MS Office",
         img: "https://source.unsplash.com/random/1920x1080",
         price: 120,
@@ -66,7 +66,7 @@ const courses = [
     },
     {
         key: "C102",
-        name: "Ultimate Content Writing Masterclass: 30 Courses in 1",
+        name: "Content Writing Masterclass",
         category: "MS Office",
         img: "https://source.unsplash.com/random/1920x1080",
         price: 120,
